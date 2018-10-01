@@ -17,24 +17,18 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Research Intern
+  * Mitsubishi Electric Research Laboratories, Cambridge, MA
+  * Supervisor: Dr. Anoop Cherian
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 06/2014 - 04/2015: Master's Researcher
+  * Duke University
+  * Supervisor: Prof. Stacy Tantum
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, C/C++, VHDL, MATLAB
+* Languages: Mandarian(native), English(Fluent)
 
 Publications
 ======
@@ -54,6 +48,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
