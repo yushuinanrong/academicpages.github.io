@@ -7,4 +7,5 @@ date: 2017-10-01
 venue: '2016 13th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/7738073'
 citation: 'D. Roeper, J. Chen, J. Konrad and P. Ishwar, "Privacy-preserving, indoor occupant localization using a network of single-pixel sensors," 2016 13th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS), Colorado Springs, CO, 2016, pp. 214-220.'
+
 ---
