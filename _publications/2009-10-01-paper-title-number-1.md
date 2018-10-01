@@ -6,5 +6,5 @@ excerpt: 'The estimation of human head pose is of interest in some surveillance 
 date: 2016-10-01
 venue: 'Image Analysis and Interpretation (SSIAI), 2016 IEEE Southwest Symposium on'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/7459176'
-citation: 'Chen, Jiawei, et al. "Estimating head pose orientation using extremely low resolution images." Image Analysis and Interpretation (SSIAI), 2016 IEEE Southwest Symposium on. IEEE, 2016.'
+citation: 'J. Chen, J. Wu, K. Richter, J. Konrad and P. Ishwar, "Estimating head pose orientation using extremely low resolution images," 2016 IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI), Santa Fe, NM, 2016, pp. 65-68.'
 ---
